@@ -73,9 +73,9 @@ content:
           Market responses to public news announcements are commonly measured by their impact on price returns variance, which allows inference on the value of information and the length of the price discovery process. Recently published articles based on high-frequency data fail to disentangle efficient market price variance from microstructure noise, which produces biased estimates of announcements’ market impacts. By using a Markov Chain framework, we address the shortcomings of previous research and assess the market response to key public information releases affecting agricultural markets. We compare two mechanisms to release public information that have been used in these markets: the trading halt and the real-time. We show how the value of microstructure noise can be used to improve public policy decisions. We find that the real-time release of information brings faster efficient price discovery at the cost of large microstructure frictions. Increases in the cost of noise are not compensated by the improvements in the speed of efficient price discovery. Overall, our findings are highly relevant to public policy and have implications for market design.
   
   - title: Working Papers
-    layout: top-middle
+    layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: Is nonlinearity necessary for realized volatility forecasting (Job Market Paper)
         quote: >
           with Anabelle Couleau, Teresa Serra, and Philip Garcia
@@ -102,7 +102,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: University of Illinois at Urbana-Champaign
         caption: 2015 - Current
         sub_title: Ph.D. in Applied Economics
