@@ -79,7 +79,8 @@ content:
         title: Is nonlinearity necessary for realized volatility forecasting (Job Market Paper)
         quote: >
           with Anabelle Couleau, Teresa Serra, and Philip Garcia
-        
+          
+      - layout: top-middle
         title: Intrahorizon Risk in Agricultural Commodity Markets
         quote: >
           with Teresa Serra and Philip Garcia
@@ -107,10 +108,12 @@ content:
         caption: 2015 - Current
         sub_title: Ph.D. in Applied Economics
         
+      - layout: top-middle
         title: University of Wisconsin - Madison
         caption: 2013 - 2015
         sub_title: Master in Economics
         
+      - layout: top-middle
         title: University of Iowa
         caption: 2009 - 2013
         sub_title: B.B.A. in Economics and Finance, Minors in Math and Statistics
