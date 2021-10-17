@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Siyu Bian
-title: Ph.D. candidate @ Department of Agricultural and Consumer Economics - UIUC
+title: Ph.D. candidate @ UIUC
 email: sbian3@illinois.edu
 website: https://bsyben.github.io/
 
@@ -22,7 +22,7 @@ github_username:  bsyben
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: siyu-bian-31577823
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -30,10 +30,10 @@ linkedin_username: jameswgrant
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,8 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  Hi, my name's Siyu Bian and I'm a Ph.D. candidate at the Department of Agricultural and Consumer Economics in University of Illinois at Urbana-Champaign. I am currently on job market.
+  
+  I am specialized in risk analysis at agricultural commodity markets. My primary research focus on microstructure theory  
+  
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
