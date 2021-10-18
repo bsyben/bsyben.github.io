@@ -96,7 +96,7 @@ content:
         title: University of Illinois at Urbana-Champaign
         sub_title: Graduate Researcher
         caption: Aug 2015 - Current
-        description:
+        description: | # this will include new lines to allow paragraphs
           - Tailored raw FIX and MDP data from Chicago Mercantile Exchange (“CME”) for different research projects
           - Built R packages and functions for the econometrics models in recent academic papers
           - Perform statistical analysis on high frequency futures price data with R
