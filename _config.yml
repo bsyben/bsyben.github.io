@@ -117,6 +117,11 @@ content:
         title: University of Iowa
         caption: 2009 - 2013
         sub_title: B.B.A. in Economics and Finance, Minors in Math and Statistics
+  
+  - title: Skills
+    layout: text
+    content:
+      R, Python, SQL, LATEX, Git
 
 # Footer
 footer_show_references: true
