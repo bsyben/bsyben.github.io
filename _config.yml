@@ -81,6 +81,11 @@ content:
           with Anabelle Couleau, Teresa Serra, and Philip Garcia
         description:
           This research is a pioneer in assessing the out-of-sample forecasting performance through a heterogeneous autoregressive (HAR) model and machine learning algorithms across different futures markets. We select the linear HAR model as it is the workhorse in the modern market volatility literature which uses realized volatility measures. Our findings show that the linear models outperform nonlinear machine learning algorithms in out-of-sample volatility forecasting. We then design a hybrid neural network that chooses between linear and nonlinear structures when forecasting volatility. The hybrid neural network decomposes its forecasts into linear and nonlinear components. The decomposition results suggest that nonlinear components amount to between 0% to 25% of total volatility. Furthermore, the time-varying nonlinear structure of volatility increases the possibility of model misspecifications. Our findings suggest that the costs outweigh the benefits of using nonlinear machine learning algorithms in out-of-sample volatility forecasting.
+          
+      - layout: top-middle
+        title: Intraday Volatility Pattern in Lean Hog and Corn Futures Market During PEDV Outbreak
+        description:
+          In 2014 hog and corn market prices reflected the consequences of the Porcine Epidemic Diarrhea Virus (PEDV) outbreak. This research studies, for the first time, the impact of the PEDV outbreak on the daily covariance of lean hog and corn intraday futures price returns. My results suggest that the PEDV crisis caused relevant increases in the lean hog (increase by 250%) and corn (increase by 150%) price return variances, and much stronger changes in the spillovers between the two markets (increase between 400% to 500%). Results also suggest that, due to substantial increases (about 600%) in market microstructure noise after the PEDV outbreak, observed return covariances constitute a relevant biased estimation of efficient return covariances.
 
           
   
