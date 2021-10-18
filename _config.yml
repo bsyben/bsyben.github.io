@@ -89,7 +89,17 @@ content:
         description:
           In 2014 hog and corn market prices reflected the consequences of the Porcine Epidemic Diarrhea Virus (PEDV) outbreak. This research studies, for the first time, the impact of the PEDV outbreak on the daily covariance of lean hog and corn intraday futures price returns. My results suggest that the PEDV crisis caused relevant increases in the lean hog (increase by 250%) and corn (increase by 150%) price return variances, and much stronger changes in the spillovers between the two markets (increase between 400% to 500%). Results also suggest that, due to substantial increases (about 600%) in market microstructure noise after the PEDV outbreak, observed return covariances constitute a relevant biased estimation of efficient return covariances.
 
-          
+  - title: Research Experience
+    layout: list
+    content:
+      - layout: left
+        title: University of Illinois at Urbana-Champaign
+        sub_title: Graduate Researcher
+        caption: Aug 2015 - Current
+        description:
+          - Tailored raw FIX and MDP data from Chicago Mercantile Exchange (“CME”) for different research projects
+          - Built R packages and functions for the econometrics models in recent academic papers
+          - Perform statistical analysis on high frequency futures price data with R
   
   - title: Internship Experience # Title for the section
     layout: list # Type of content section (list/text)
