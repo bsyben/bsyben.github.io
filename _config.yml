@@ -80,7 +80,7 @@ content:
         quote: >
           with Anabelle Couleau, Teresa Serra, and Philip Garcia
         description:
-          This research is a pioneer in assessing the out-of-sample forecasting performance through a heterogeneous autoregressive (HAR) model and machine learning algorithms across different futures markets. We select the linear HAR model as it is the workhorse in the modern market volatility literature which uses realized volatility measures. Our findings show that the linear models outperform nonlinear machine learning algorithms in out-of-sample volatility forecasting. We then design a hybrid neural network that chooses between linear and nonlinear structures when forecasting volatility. The hybrid neural network decomposes its forecasts into linear and nonlinear components. The decomposition results suggest that nonlinear components amount to between 0% to 25% of total volatility. Furthermore, the time-varying nonlinear structure of volatility increases the possibility of model misspecifications. Our findings suggest that the costs outweigh the benefits of using nonlinear machine learning algorithms in out-of-sample volatility forecasting.
+         Our findings show that the linear models outperform nonlinear machine learning algorithms in out-of-sample volatility forecasting. We then design a hybrid neural network that chooses between linear and nonlinear structures when forecasting volatility. The hybrid neural network decomposes its forecasts into linear and nonlinear components. The decomposition results suggest that nonlinear components amount to between 0% to 25% of total volatility.
           
       - layout: top-middle
         title: Intraday Volatility Pattern in Lean Hog and Corn Futures Market During PEDV Outbreak
