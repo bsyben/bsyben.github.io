@@ -80,7 +80,7 @@ content:
       - layout: top-middle
         title: Is nonlinearity necessary for realized volatility forecasting (Job Market Paper)
         quote: >
-          with Anabelle Couleau, Teresa Serra, and Philip Garcia
+          with Teresa Serra, and Philip Garcia
         description:
          Our findings show that the linear models outperform nonlinear machine learning algorithms in out-of-sample volatility forecasting. We then design a hybrid neural network that chooses between linear and nonlinear structures when forecasting volatility. The hybrid neural network decomposes its forecasts into linear and nonlinear components. The decomposition results suggest that nonlinear components amount to between 0% to 25% of total volatility.
           
